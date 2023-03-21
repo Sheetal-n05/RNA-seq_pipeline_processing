@@ -19,3 +19,11 @@ Once the alignments are done, the program can use the sam file for sorting and i
 
 To index the file data, the program uses the samtools index command.
 The implementation of trimming in RNA-Seq analysis workflows warrants caution and needs to be used in conjunction with a minimum read length filter to mitigate the introduction of unpredictable changes in expression estimate.
+
+
+Reference:
+
+
+      https://northeastern.instructure.com/courses/89605/pages/binf6308-module-6-practice-2?module_item_id=6541647
+
+      https://onesearch.library.northeastern.edu/primo-explore/fulldisplay?docid=TN_cdi_pubmedcentral_primary_oai_pubmedcentral_nih_gov_4766705&context=PC&vid=NU&lang=en_US&search_scope=default_scope&adaptor=primo_central_multiple_fe&tab=default_tab&query=any,contains,Trimmomatic%20rna&offset=0
